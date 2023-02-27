@@ -54,6 +54,16 @@
 		display: block;
 	}
 
+	.logo {
+		width: 45% !important;
+		height: 45% !important;
+		padding: 0px 0px;
+		margin-top: 0px;
+		margin-left: 0px;
+		object-fit: scale-down;
+	}
+
+
 	.nav__icon svg,
 	.nav__close svg {
 		pointer-events: none;
