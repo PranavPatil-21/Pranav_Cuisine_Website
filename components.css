@@ -3,15 +3,9 @@
 	padding: 2rem 0;
 }
 
-.logo {
-	width: 120px;
-	height: 120px;
-	padding: 0px 0px;
-	margin-top: 0px;
-	object-fit: contain;
-}
 
-.logo1 {
+
+.logo {
 	width: 15% !important;
 	height: 15% !important;
 	padding: 0px 0px;
