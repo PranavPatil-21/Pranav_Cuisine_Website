@@ -11,6 +11,15 @@
 	object-fit: contain;
 }
 
+.logo1 {
+	width: 15% !important;
+	height: 15% !important;
+	padding: 0px 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+	object-fit: scale-down;
+}
+
 
 .nav__icon,
 .nav__close,
